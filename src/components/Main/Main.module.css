@@ -1,0 +1,86 @@
+.newPost {
+    background-color: #c7ebfa;
+    margin-top: 10px;
+    padding: 10px;
+    padding-bottom: 45px;
+}
+
+.newPost textarea {
+    resize: none;
+    min-width: 100%;
+    min-height: 120px;
+}
+
+.buttonNewPost {
+    float: right;
+    margin: 5px;
+    padding: 5px 20px;
+    background-color: white;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.buttonNewPost:hover {
+    background: rgb(236, 236, 236);
+}
+
+.post2 {
+    background-color: #c7ebfa;
+    margin-top: 10px;
+    display: flex;
+}
+
+.post2avatar {
+    padding: 10px;
+}
+
+.post2avatar p {
+    font-size: 10px;
+}
+
+.post2avatar img {
+    border-radius: 50px;
+}
+
+.post2text {
+    padding: 10px;
+    width: 100%;
+}
+
+.post2text p {
+    background-color: white;
+    min-height: 100%;
+    min-width: 100%;
+    width: 100%;
+}
+
+.post1 {
+    background-color: #c7ebfa;
+    margin-top: 10px;
+    display: flex;
+}
+
+.post1avatar {
+    padding: 10px;
+}
+
+.post1avatar img {
+    border-radius: 50px;
+}
+
+.post1avatar p {
+    font-size: 10px;
+}
+
+.post1text {
+    padding: 10px;
+    width: 100%;
+}
+
+.post1text p {
+    background-color: white;
+    min-height: 100%;
+    min-width: 100%;
+    width: 100%;
+}

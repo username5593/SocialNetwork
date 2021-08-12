@@ -1,0 +1,29 @@
+.post {
+    background-color: #c7ebfa;
+    margin-top: 10px;
+    display: flex;
+}
+
+.postAvatar {
+    padding: 10px;
+}
+
+.postAvatar img {
+    border-radius: 50px;
+}
+
+.postAvatar p {
+    font-size: 10px;
+}
+
+.postText {
+    padding: 10px;
+    width: 100%;
+}
+
+.postText p {
+    background-color: white;
+    min-height: 100%;
+    min-width: 100%;
+    width: 100%;
+}

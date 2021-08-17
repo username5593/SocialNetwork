@@ -1,41 +1,4 @@
-.content {
-    grid-area: c;
-}
-
 .bio {
     display: flex;
-    background-color: #c7ebfa;
-}
-
-
-
-
-.avatar {
-    padding: 10px;
-}
-
-.status {
-    color: #007fb6;
-    font-weight: bold;
-}
-
-
-
-
-
-.info {
-    padding: 10px;
-}
-
-.info h2 {
-    padding-bottom: 30px;
-}
-
-.infoItem {
-    display: flex;
-    line-height: 22px;
-}
-
-.infoItem h3 {
-    padding-right: 5px;
+    background-color: #004370;
 }

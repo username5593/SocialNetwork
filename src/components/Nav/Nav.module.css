@@ -1,6 +1,6 @@
 .nav {
     grid-area: n;
-    background-color: #c7ebfa;
+    background-color: #004370;
 }
 
 nav ul {
@@ -17,7 +17,7 @@ nav ul {
 }
 
 li:hover {
-    background-color: white;
+    background-color: #405969;
     text-shadow: 1px 1px 5px gray;
 }
 
@@ -28,4 +28,12 @@ nav ul li:last-child {
 nav ul li a {
     text-decoration: none;
     color: inherit;
+}
+
+nav ul li a.active {
+    color: #72abe0;
+}
+
+nav ul li a:active {
+    color: #102c46;
 }

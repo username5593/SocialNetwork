@@ -9,11 +9,11 @@ import Post from './Post/Post'
 const Main = () => {
     return (
         <main className={classes.content}>
-            <MainHeadImage /> 
+            <MainHeadImage />
             <BIO />
             <NewPost />
-            <Post />
-            <Post />
+            <Post message='It`s my social network.' likesCount='21' />
+            <Post message='Hello React!' likesCount='13' />
         </main>
     )
 }

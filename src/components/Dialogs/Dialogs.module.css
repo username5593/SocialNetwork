@@ -1,0 +1,22 @@
+.wrapperDialog {
+    background-color: #d9f1ff;
+    color: black;
+    display: grid;
+    grid-template-columns: 2fr 8fr;
+}
+
+.dialogsLists {}
+
+.dialogList {
+    padding: 10px;
+}
+
+.dialogList.active {
+    color: #72abe0;
+}
+
+.dialogMessages {}
+
+.dialogMessege {
+    padding: 10px;
+}

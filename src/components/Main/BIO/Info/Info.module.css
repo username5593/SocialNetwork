@@ -1,0 +1,17 @@
+.info {
+    padding: 10px;
+}
+
+.info h2 {
+    padding-bottom: 30px;
+}
+
+.infoItem {
+    line-height: 22px;
+    display: flex;
+
+}
+
+.infoItem h3 {
+    padding-right: 5px;
+}

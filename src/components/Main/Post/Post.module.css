@@ -1,5 +1,5 @@
 .post {
-    background-color: #c7ebfa;
+    background-color: #004370;
     margin-top: 10px;
     display: flex;
 }
@@ -22,7 +22,8 @@
 }
 
 .postText p {
-    background-color: white;
+    color: black;
+    background-color:white;
     min-height: 100%;
     min-width: 100%;
     width: 100%;
